@@ -1,1 +1,2 @@
 feature state n. 1
+something added to feature so now it is in state n. 2
